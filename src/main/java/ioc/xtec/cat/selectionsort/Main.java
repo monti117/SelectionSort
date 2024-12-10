@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Main {
 
 public static void main(String[] args) {
+        
+        System.out.println("He aprés molt en aquesta assignatura però ha estat molt dur!!");
+        System.out.println("Arnau Montalban Canudas");
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Introdueix la mida de l'array: ");
